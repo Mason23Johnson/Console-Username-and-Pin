@@ -1,0 +1,14 @@
+F:\Programming\MasonJohnsonPortfolioProjects\NameAndPin\NameAndPinConsole\bin\Debug\net8.0\NameAndPinConsole.exe
+F:\Programming\MasonJohnsonPortfolioProjects\NameAndPin\NameAndPinConsole\bin\Debug\net8.0\NameAndPinConsole.deps.json
+F:\Programming\MasonJohnsonPortfolioProjects\NameAndPin\NameAndPinConsole\bin\Debug\net8.0\NameAndPinConsole.runtimeconfig.json
+F:\Programming\MasonJohnsonPortfolioProjects\NameAndPin\NameAndPinConsole\bin\Debug\net8.0\NameAndPinConsole.dll
+F:\Programming\MasonJohnsonPortfolioProjects\NameAndPin\NameAndPinConsole\bin\Debug\net8.0\NameAndPinConsole.pdb
+F:\Programming\MasonJohnsonPortfolioProjects\NameAndPin\NameAndPinConsole\obj\Debug\net8.0\NameAndPinConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\MasonJohnsonPortfolioProjects\NameAndPin\NameAndPinConsole\obj\Debug\net8.0\NameAndPinConsole.AssemblyInfoInputs.cache
+F:\Programming\MasonJohnsonPortfolioProjects\NameAndPin\NameAndPinConsole\obj\Debug\net8.0\NameAndPinConsole.AssemblyInfo.cs
+F:\Programming\MasonJohnsonPortfolioProjects\NameAndPin\NameAndPinConsole\obj\Debug\net8.0\NameAndPinConsole.csproj.CoreCompileInputs.cache
+F:\Programming\MasonJohnsonPortfolioProjects\NameAndPin\NameAndPinConsole\obj\Debug\net8.0\NameAndPinConsole.dll
+F:\Programming\MasonJohnsonPortfolioProjects\NameAndPin\NameAndPinConsole\obj\Debug\net8.0\refint\NameAndPinConsole.dll
+F:\Programming\MasonJohnsonPortfolioProjects\NameAndPin\NameAndPinConsole\obj\Debug\net8.0\NameAndPinConsole.pdb
+F:\Programming\MasonJohnsonPortfolioProjects\NameAndPin\NameAndPinConsole\obj\Debug\net8.0\NameAndPinConsole.genruntimeconfig.cache
+F:\Programming\MasonJohnsonPortfolioProjects\NameAndPin\NameAndPinConsole\obj\Debug\net8.0\ref\NameAndPinConsole.dll

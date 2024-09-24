@@ -9,6 +9,8 @@ Error detection for invalid characters or parameters such as:
   2) PINS are not digits.
   3) PINS do not match.
 
+(This is an addition to my previous Console Main Menu project which can be found on this GitHub)
+
 Example {
 Please enter a username between 3-20 characters.
 MJ
